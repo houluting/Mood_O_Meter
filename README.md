@@ -1,10 +1,11 @@
 # Mood-o-meter 
 An light installation that visualizes emotion data and emails it to users.
 
-[Arduino Code]()
+[Arduino Code](https://github.com/houluting/Mood_O_Meter/blob/master/moodometer.ino)
 
 Rerences and libraries I used:
-- [RTC library]()
-- []
+- [RTC library](https://github.com/PaulStoffregen/DS1307RTC)
+- [Adafruit DotStar LED Library](https://github.com/adafruit/Adafruit_DotStar)
+- [Sending email from Arduino Yun](http://dev.mikamai.com/post/76945627390/you-cant-touch-this-an-evil-arduino-based)
 
 [More information about the project](lutinghou.com/moodometer.html)
