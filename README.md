@@ -9,4 +9,4 @@ Rerences and libraries I used or found very helpful:
 - [Sending email from Arduino Yun](http://dev.mikamai.com/post/76945627390/you-cant-touch-this-an-evil-arduino-based)
 - [Reset Arduino without pushing reset buttons](http://www.instructables.com/id/two-ways-to-reset-arduino-in-software/)
 
-[More information about the project](lutinghou.com/moodometer.html)
+[More information about the project](http://www.lutinghou.com/moodometer.html)
